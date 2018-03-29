@@ -1,0 +1,17 @@
+{
+    "require-dev" : {
+        "phpunit/phpunit": "7.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "CDC\\Store\\": [
+                "src/CDC/Store",
+                "tests/CDC/Store"
+            ],
+            "CDC\\Examples\\": [
+                "src/CDC/Examples",
+                "tests/CDC/Examples"
+            ]
+        }
+    }
+}
