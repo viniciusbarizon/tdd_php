@@ -4,7 +4,7 @@ namespace CDC\Store\Product;
 use CDC\Store\Cart\ShoppingCart,
     CDC\Store\Product\Product,
     CDC\Store\Product\BiggerAndSmaller;
-use PHPUnit_Framework_TestCase as PHPUnit;
+ use \PHPUnit\Framework\TestCase as PHPUnit;
 
 class BiggerAndSmallerTest extends PHPUnit
 {
