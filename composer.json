@@ -13,11 +13,5 @@
                 "tests/CDC/Examples"
             ]
         }
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/sebastianbergmann/phpunit"
-        }
-    ]
+    }
 }
